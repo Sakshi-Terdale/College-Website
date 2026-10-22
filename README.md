@@ -1,12 +1,34 @@
-# React + Vite
+# College Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About the Project
 
-Currently, two official plugins are available:
+The College Website is a web development project created to present college-related information in a simple and organized way.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The website helps visitors explore information about the college, available courses and departments, and faculty members.
 
-## Expanding the ESLint configuration
+## Website Sections
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Home / About College:** Provides information about the college.
+- **Courses / Departments:** Displays information about courses and departments.
+- **Faculty / Teachers:** Presents information about faculty members and teachers.
+
+## Technologies Used
+
+- React
+- JavaScript
+- HTML
+- CSS
+
+## Live Website
+
+[Visit the College Website](https://task2-ten-azure.vercel.app/)
+
+## Purpose of the Project
+
+The purpose of this project is to practice frontend web development and build a college website using React.
+
+## Author
+
+**Sakshi Terdale**
+
+[GitHub Profile](https://github.com/Sakshi-Terdale)
